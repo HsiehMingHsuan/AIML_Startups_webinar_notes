@@ -259,3 +259,11 @@ A: Always go for AI services first. AI services are off-the-shelf, and can be mo
 - use case: NLP, docs to data, sentiment detection
 
 - [hands-on demo](https://comprehend-immersionday.workshop.aws/prerequisites.html)
+
+## Resources
+
+[Event page](https://pages.awscloud.com/sus-aiml-week-reg.html?sc_channel=em&sc_campaign=APAC_FIELD_WEBINAR_sus-aiml-workshop-week_20210831_7014z000001hN73&sc_publisher=aws&sc_content=field_wew_field&sc_country=mult&sc_geo=apac&sc_category=mult&sc_outcome=field&source=em_&trk=em_inv1_susaiml)
+
+[Related Videos](https://asean-resources.awscloud.com/asean-workshop-series-machine-learning-edition)
+
+[AIML resource hub](https://resources.awscloud.com/ai-and-machine-learning)
