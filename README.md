@@ -1,5 +1,16 @@
 # AI/ML Starup webinar
 
+Webinar video:
+
+1. [AI/ML Workshop Week: Getting started with AIML](https://asean-resources.awscloud.com/asean-startup-on-demand/getting-started-with-ai-ml-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPatjK5lmgXmO6ia5haU0CqC_4Ud4MLcvBtfHZLxQusgflipzc3mIDjEqp2FMPWgzXxRe-KsrQZPKCP3MaTd9VA86-PqixZUFMG8wLXextcovBqV6V_5) (8/31)
+
+2. [AI/ML Workshop Week: Recommendations with Amazon Personalize](https://asean-resources.awscloud.com/asean-startup-on-demand/recommendations-with-amazon-personalize-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPati9G1uQS7weuGDk4DR5CvttpUUYSsPAES51FmAbc6bmEavCK1LaEVVcFEjcBnApvz1FPT36dUYcQfpXzQzPCoPDPFb1F_y94QkrxnSqpIQMuFl5yS) (8/31)
+
+3. [AI/ML Workshop Week: Build, Train and Deploy with Amazon Sagemaker](https://asean-resources.awscloud.com/asean-startup-on-demand/build-train-and-deploy-with-amazon-sagemaker-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPati2iSTD8r0lmk7L2NRJ-CfjFZDr8Ifqtf0nCWzzUxeLKqvpXQhxz6LiPQzX8vAj66qI7mYt2aCDIA0AOnS1fMiEaxodTQhRzvpJBZmQXqLGlX4OQL) (9/1)
+
+4. [Image and Video Analysis with Amazon Rekognition](https://asean-resources.awscloud.com/asean-startup-on-demand/image-and-video-analysis-with-amazon-rekognition-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPatiwzXdh6zYsCFh2y5rX7ghrwW5N0CZi5ONbrmBhhPBEppad4Tw6yqNHqbmywB4sAxNj8-EniRfhkwupGFrBLizLHi8liDdB0SQ-E4btsGNvYvcnKw) (9/2)
+
+5. [Making Sense of Documents with Amazon Textract and Amazon Comprehend](https://asean-resources.awscloud.com/asean-startup-on-demand/image-and-video-analysis-with-amazon-rekognition-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPati-3pXuYC5XLNPS-61D0kYMoz7lTZZr2Yb0J_yS5Sj2qOfe6TqxhVYsI0s6p1YbJ_sTwPEhUXUSp8oFMxzOKjuiY0iVAmpArBTouLuDNIAOqxfiqF) (9/2)
 ## Getting Started with AIML (8/31)
 
 ### Quick intro to AI/ML
