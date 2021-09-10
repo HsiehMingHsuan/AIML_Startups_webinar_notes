@@ -1,6 +1,6 @@
 # AI/ML Starup webinar
 
-Webinar video:
+Webinar videos:
 
 1. [AI/ML Workshop Week: Getting started with AIML](https://asean-resources.awscloud.com/asean-startup-on-demand/getting-started-with-ai-ml-6?mkt_tok=MTEyLVRaTS03NjYAAAF_XPatjK5lmgXmO6ia5haU0CqC_4Ud4MLcvBtfHZLxQusgflipzc3mIDjEqp2FMPWgzXxRe-KsrQZPKCP3MaTd9VA86-PqixZUFMG8wLXextcovBqV6V_5) (8/31)
 
