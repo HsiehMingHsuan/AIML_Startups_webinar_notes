@@ -1,4 +1,4 @@
-# AI/ML Starup webinar
+# AI/ML Starup Webinar
 
 Webinar videos:
 
